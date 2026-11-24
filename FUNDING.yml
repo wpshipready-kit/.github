@@ -1,0 +1,3 @@
+# Shows a "Sponsor" button on every public WPShipReady repository.
+# Payment goes through Dodo on docxtowp.com; sponsors can appear on the wall there.
+custom: ["https://docxtowp.com/sponsor"]
